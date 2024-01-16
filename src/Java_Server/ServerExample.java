@@ -1,6 +1,4 @@
-
-
+package Java_Server;
 public class ServerExample {
-    private static ServerSocket serverSocket = null;
 
 }

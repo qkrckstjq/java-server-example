@@ -1,2 +1,4 @@
-package Java_Server;public class ClientExample {
+package Java_Server;
+public class ClientExample {
+
 }
