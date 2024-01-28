@@ -8,7 +8,6 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
 public class  JsonFileCreater {
-    @SuppressWarnings("unchecked")
     public static void main(String[] args) {
 
         JSONObject obj = new JSONObject();
